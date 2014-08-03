@@ -7,7 +7,7 @@ The program doesn't require a lot of documentation, just a little knowledge of t
 
 See the example in the problems/ directory to start.
 
-The program implements the *primal simplex* and *two-phase methods*, and the *dual simplex* method.
+The program implements the **primal simplex** and **two-phase methods**, and the **dual simplex** method.
 
 The code has been written to be clear and as a consolidation of the studied theory, so it is not super-optimized, but should be easy to modify. 
 
