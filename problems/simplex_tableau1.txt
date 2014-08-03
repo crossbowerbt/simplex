@@ -1,0 +1,20 @@
+# A simple tableau, to test the simplex method
+
+SIMPLEX
+
+# The tableau has form:
+#
+# ---------
+# | A | b |
+# --------
+# | c | 0 |
+# ---------
+#
+
+ 6.0   4.0  1.0  0.0      24.0
+ 3.0  -2.0  0.0  0.0      6.0
+-1.0  -1.0  0.0  0.0      0.0
+
+# The initial basis indices
+
+2 3

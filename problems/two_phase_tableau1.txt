@@ -1,0 +1,19 @@
+# A tableau, to test the dual simplex method
+
+TWO_PHASE
+
+# The tableau has form:
+#
+# ---------
+# | A | b |
+# ---------
+# | c | 0 |
+# ---------
+#
+
+ 2.0   1.0   1.0   1.0  0.0   0.0       2.0
+ 1.0   2.0   3.0   0.0  1.0   0.0       5.0
+ 2.0   2.0   1.0   0.0  0.0   1.0       6.0
+-3.0  -1.0  -3.0   0.0  0.0   0.0       0.0
+
+# No initial basis indices
