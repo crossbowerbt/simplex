@@ -1,0 +1,21 @@
+# A cicling tableau, to test the two_phase method
+
+TWO_PHASE
+
+# The tableau has form:
+#
+# ----------
+# | A | b  |
+# ----------
+# | c | -z |
+# ----------
+#
+
+ 1.0     2.0    3.0   0.0      3.0
+-1.0     2.0    6.0   0.0      2.0
+ 0.0     4.0    9.0   0.0      5.0
+ 0.0     0.0    3.0   1.0      1.0
+ 0.0    -8.0  -21.5   0.0    -11.0
+
+# No initial basis indices
+
